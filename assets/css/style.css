@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.background_color {
+    background-color: cornflowerblue;
+}
+
+.min_height {
+    min-height: 100vh;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex_grow {
+    flex-grow: 1;
+}
+
+.justify_c {
+    justify-content: center;
+}
